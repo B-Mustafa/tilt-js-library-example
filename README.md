@@ -1,6 +1,8 @@
 # Tilt.js Web Page
 This repository contains a web page that utilizes the Tilt.js library to create a visually stunning and interactive experience for the user. The page is built using HTML, CSS, and JavaScript.
 
+![example](https://user-images.githubusercontent.com/75468116/215257965-f82afc7a-57a9-4346-91d0-7039b784ca73.gif)
+
 ## Getting Started
 To view the web page, simply clone or download the repository and open the `index.html` file in your browser. No additional setup or installation is required.
 
